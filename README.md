@@ -1,7 +1,7 @@
 # Predicting-adults-income
 
 Didactic purpose of the project:
-* To encod categorical data for use with machine learning algorithms;
+* To encode categorical data for use with machine learning algorithms;
 * To understand random forest learning algorithms for classification;
 * To continue the investigations of overfitting.
 * To learn to interpret a model by looking at feature importance scores.
